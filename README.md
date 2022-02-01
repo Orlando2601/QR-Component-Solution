@@ -22,8 +22,8 @@ This is a QR component solution, easy and responsive
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Orlando2601/QR-Component-Solution.git)
-
+- Solution URL: [Repo](https://github.com/Orlando2601/QR-Component-Solution.git)
+- Solution live: [Web site](https://qr-solution-by-orlando-baez.netlify.app/)
 ## My process
 Learn a little bit HTML, CSS
 ### Built with
@@ -44,6 +44,6 @@ I will learn about react and more tips about css
 
 ## Author
 
-- Website - [Oswar Orlando Baez](https://github.com/Orlando2601)
+- Website - [Orlando Baez](https://github.com/Orlando2601)
 - Frontend Mentor - [@Orlando2601](https://www.frontendmentor.io/profile/Orlando2601)
 
