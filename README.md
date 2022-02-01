@@ -22,8 +22,7 @@ This is a QR component solution, easy and responsive
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Orlando2601/QR-Component-Solution.git)
 
 ## My process
 Learn a little bit HTML, CSS
@@ -45,7 +44,6 @@ I will learn about react and more tips about css
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Oswar Orlando Baez](https://github.com/Orlando2601)
+- Frontend Mentor - [@Orlando2601](https://www.frontendmentor.io/profile/Orlando2601)
 
