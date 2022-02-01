@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
+* {
+    margin: 0;  
+    padding: 0;
+    box-sizing: border-box; 
+} 
+:root{
+    /* COLORS */
+    --white:hsl(0, 0%, 100%);
+    --Light-gray: hsl(212, 45%, 89%);
+    --Grayish-blue: hsl(220, 15%, 55%);
+    --Dark-blue: hsl(218, 44%, 22%);
+    /* FONTS SIZE */
+    --p:15px;
+    /* FONT TYPE */
+    --font: 'Outfit', sans-serif;
+}
+body{
+    background-color: var(--Light-gray);
+    padding: 10vw;
+    display: flex;
+    flex-direction: column;   
+    align-items: center;
+    gap: 15px;
+}
+/* mobile and desktop */
+
+.mainBox{
+    /* position */
+    display: flex;
+    flex-direction: column;
+    width: 290px;
+    height: 440px;
+    padding:15px 15px 15px 15px;
+    /* styles */
+    background-color:var(--white);
+    border-radius: 15px;
+    gap: 15px;
+}
+.mainBox .top {
+   
+    width: 100%;
+
+}
+.mainBox .top img {
+    width: 100%;
+    border-radius: 15px;
+
+}
+.mainBox .botton{
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+    align-items: center;
+    gap:15px
+
+}
+.mainBox .botton .botton-top h3{
+align-items: center;
+font-family: var(--font);
+text-align: center;
+font-weight: 700;
+color: var(--Dark-blue);
+}
+.mainBox .botton .botton-botton{
+    align-items: center;
+    font-family: var(--font);
+    text-align: center;
+    font-size: var(--p);
+    font-weight: 400;
+    color: var(--Grayish-blue);
+}
+.attribution {
+    font-family: var(--font);
+    color: var(--Grayish-blue);
+}
+
